@@ -1,4 +1,3 @@
-```markdown
 # Chatify - Chat App
 
 Chatify is a real-time chat application built with a modern tech stack, including React for the frontend and Express.js for the backend. The application supports real-time communication, user authentication, and secure password management, and is designed to be easily deployable.
