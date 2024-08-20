@@ -1,13 +1,3 @@
-When copying and pasting into your GitHub README file, it's important to ensure that the markdown formatting is correctly interpreted. Here are a few tips to make sure it displays correctly:
-
-1. **Make sure your file is named `README.md`.** The `.md` extension stands for Markdown, which GitHub automatically renders as formatted text.
-
-2. **Check your text editor.** Some editors might inadvertently add extra spaces or characters when copying and pasting. Make sure your text is plain text.
-
-3. **Preview on GitHub.** After pasting the text into the `README.md` file, commit the changes and then view the file on GitHub to see how it renders.
-
-Here’s the same text, but just in case, you might want to manually ensure that it’s correctly formatted:
-
 ```markdown
 # Chatify - Chat App
 
